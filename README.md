@@ -3,6 +3,7 @@ https://www.tensorflow.org
 
 ## Jupyter Notebook
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 ## Dataset & Competition
 (1) MNIST
